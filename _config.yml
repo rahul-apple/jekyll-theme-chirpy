@@ -8,14 +8,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: iOS Developer                          # the main title
+title: Rahul R                          # the main title
 
-tagline: Tech Geeky.  # it will display as the sub-title
+tagline: Focusing on details  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  I'm a Mobile Application Developer having 6+ yr experience. I Enjoy the development of App from the scratch. I have Experience in the following fields also IoT, Healthcare, Alexa, tvOS, Mobile App UI designs.I love my Job and the New Technologies.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://rahul-apple.github.io'
@@ -28,18 +26,18 @@ github:
   username: rahul-apple             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: hijaz3710            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Rahul Ramachandra                  # it will shows as the copyright owner in Footer
+  email: rahulthazhuthala@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/hijaz3710      # change to your twitter homepage
+    - https://github.com/rahul-apple       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/hijaz3710
+    - https://www.linkedin.com/in/rahulapple
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -49,7 +47,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -78,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
