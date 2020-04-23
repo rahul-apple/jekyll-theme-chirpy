@@ -9,10 +9,10 @@ tags: [profile]
 ## Rahul R
 
 
-<a href="whatsapp://send?abid=+917907223952&text=Hi" target="_blank">
+<a href="https://wa.me/917907223952?text=Hi" target="_blank">
   <i class="fab fa-whatsapp"></i> +917907223952
 </a>&nbsp;&nbsp;
-<a href="whatsapp://send?abid=+918281460718&text=Hi" target="_blank">
+<a href="https://wa.me/918281460718?text=Hi" target="_blank">
   <i class="fab fa-whatsapp"></i> +918281460718
 </a>
 
