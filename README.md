@@ -1,4 +1,4 @@
-# Chirpy
+﻿# Chirpy
 
 🌏 English • [简体中文](docs/README_zh-CN.md)
 
@@ -93,7 +93,7 @@ jekyll-theme-chirpy/
 ├── .github         # remove this, too
 ├── assets      
 ├── tabs
-│   └── about.md    # the ABOUT page
+│   └── about.md    # the ABOUT page
 ├── .gitignore
 ├── 404.html
 ├── Gemfile
@@ -120,8 +120,8 @@ As mentioned above, some files or directories should be removed from your repo:
 Generally, go to `_config.yml` and configure the variables as needed. Some of them are typical options:
 
 * `url`
-	
-	Set to your website url and there should be no slash symbol at the tail. Format: `<protocol>://<domain>`.
+    
+    Set to your website url and there should be no slash symbol at the tail. Format: `<protocol>://<domain>`.
 
 
 * `avatar`
@@ -134,12 +134,12 @@ Generally, go to `_config.yml` and configure the variables as needed. Some of th
 
 * `theme_mode`
   
-	There are three options for the theme color scheme:
-	
-	- **dual** 	- The default color scheme will follow the system settings, but if the system does not support dark mode, or the browser does not support `Media Queries Level 5`, the theme will be displayed as `light` mode by default. Anyway, the bottom left corner of the Sidebar will provide a button for users to switch color schemes.
+    There are three options for the theme color scheme:
+    
+    - **dual**     - The default color scheme will follow the system settings, but if the system does not support dark mode, or the browser does not support `Media Queries Level 5`, the theme will be displayed as `light` mode by default. Anyway, the bottom left corner of the Sidebar will provide a button for users to switch color schemes.
 
-	- **dark**	- Always show dark mode.
-	- **light**	- Always show light mode.
+    - **dark**    - Always show dark mode.
+    - **light**    - Always show light mode.
 
 
 ###  Run Locally
