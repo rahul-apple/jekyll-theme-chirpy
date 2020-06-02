@@ -1,7 +1,7 @@
 ---
 title: WhatsApp's click to chat Feature
 author: Rahul R
-date: 2020-01-01 00:00:00 +0530
+date: 2019-01-01 00:00:00 +0530
 categories: [Blogging,General]
 tags: [whatsapp,url]     # TAG names should always be lowercase
 ---
