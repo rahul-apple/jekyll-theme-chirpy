@@ -5,10 +5,13 @@ date: 2019-01-01 00:00:00 +0530
 categories: [Blogging,General]
 tags: [whatsapp,url]     # TAG names should always be lowercase
 ---
-
+![WhatsApp](/attachment/message-us-correct.png)
 ## How to use click to chat
 
 WhatsApp's click to chat feature allows you to begin a chat with someone without having their phone number saved in your phone's address book. As long as you know this person’s phone number and they have an active WhatsApp account, you can create a link that will allow you to start a chat with them. By clicking the link, a chat with the person automatically opens. Click to chat works on both your phone and WhatsApp Web.
+
+
+
 
 ### Create your own link
 Use ```https://wa.me/<number>``` where the ```<number>``` is a full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.
